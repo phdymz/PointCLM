@@ -2,6 +2,7 @@ PointCLM: A Contrastive Learning-based Framework for Multi-instance Point Cloud 
 ===
 
 Coming Soon !
+-------
 
 This repository provides code and data required to train and evaluate PointCLM. It represents the official implementation of the paper:
 
